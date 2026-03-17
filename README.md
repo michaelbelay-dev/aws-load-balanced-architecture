@@ -12,7 +12,7 @@ This architecture demonstrates key **cloud engineering concepts such as high ava
 
 # Architecture Diagram
 
-*(![Architecture Diagram](architecture/architecture-diagram.png))*
+*![Architecture Diagram](architecture/architecture-diagram.png)*
 
 Example components:
 
