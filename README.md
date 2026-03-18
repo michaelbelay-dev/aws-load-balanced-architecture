@@ -15,7 +15,7 @@ This architecture demonstrates key **cloud engineering concepts such as high ava
 *![Architecture Diagram](architecture/architecture-diagram.png)*
 *![Route53](screenshots/route53.png)*
 *![ALB Rules](screenshots/alb-rules.png)*
-*![Browser results.png)*
+*![Browser results.png](screenshots/browser results.png)*
 
 Example components:
 
