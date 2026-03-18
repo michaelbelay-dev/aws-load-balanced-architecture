@@ -13,9 +13,10 @@ This architecture demonstrates key **cloud engineering concepts such as high ava
 # Architecture Diagram
 
 *![Architecture Diagram](architecture/architecture-diagram.png)*
- ![Route53](screenshots/route53.png)
- ![ALB Rules](screenshots/alb-rules.png)
- ![Browser results (red + blue).png)
+*![Route53](screenshots/route53.png)*
+*![ALB Rules](screenshots/alb-rules.png)*
+*![Browser results.png)*
+
 Example components:
 
 * Application Load Balancer
