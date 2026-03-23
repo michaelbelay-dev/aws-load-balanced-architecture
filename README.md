@@ -128,18 +128,7 @@ http://ALB-DNS/blue
 
 ---
 
-# Host-Based Routing (Next Step)
-
-Traffic will also be routed based on subdomains.
-
-Examples:
-
-```
-red.mydomain.com
-blue.mydomain.com
-```
-
-Configured using **Route 53 DNS records** pointing to the Application Load Balancer.
+# Future Improvements (Next Step)
 
 ---
 
@@ -167,10 +156,11 @@ Completed:
 * Apache installation
 * Application Load Balancer
 * Path-based routing
+* Host-based routing with Route 53(Configured using **Route 53 DNS records** pointing to the Application Load Balancer).
 
 In Progress:
 
-* Host-based routing with Route 53
+* Future Improvements
 
 ---
 
